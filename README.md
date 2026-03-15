@@ -1,62 +1,62 @@
-# Wil Hurley — Founder of EzEpoch
+# Hi, I'm Jason Hurley (Wil) 👋
 
-Hi, I’m Wil — a self‑taught systems architect building **EzEpoch**, a privacy‑first, self‑healing AI training engine designed to make model training simple, stable, and fast.
+**Founder of [ARC Technologies LLC](https://arctechnologiesllc.com) — I build AI products end-to-end and ship them.**
 
-I built EzEpoch because training breaks more than it succeeds.  
-Logs are unclear, configs drift, GPUs behave differently across clouds, and a single crash can waste hours.  
-I wanted a system that could **deploy training in minutes**, recover from failures automatically, and give users real insight into what’s happening under the hood.
+Based in Portsmouth, Ohio · Working 100% remote · Open to contract & full-time
 
 ---
 
-## 🚀 What I’m Building: EzEpoch
+## 🚀 Live Projects
 
-EzEpoch is a training engine that:
+### [EzEpoch](https://app.ezepoch.com) — Browser-Based LLM Fine-Tuning Platform
+Fine-tune large language models in your browser. Upload a dataset, pick a base model, watch it train in real time.  
+No terminal. No Python environment. No GPU on your end.  
+`Python` `Flask` `WebSockets` `LoRA/QLoRA` `Stripe` `Heroku` `AWS`
 
-- Deploys training in **under 2 minutes**
-- Automatically detects **true MSL** and configures training around it  
-- Cleans and prepares datasets before training starts  
-- Probes GPUs to determine optimal batch size and settings  
-- Runs everything on a **RAM disk** for privacy and speed  
-- Self‑heals crashes, restarts intelligently, and preserves progress  
-- Works across GPU clouds like RunPod, Vast.ai, GCP, and more  
-- Reduces `a_token` usage by up to **95%** on certain kernels (a surprise discovery)
+### [VA Claims AI Assistant](https://vahelper.com) — Free Tool for Veterans
+AI chatbot fine-tuned on 109K examples from 38 CFR regulations, C&P exam guides, nexus letters, and appeals data.  
+No signup. No cost. No ads. Ever.  
+`Python` `PyTorch` `Qwen 2.5 3B` `HuggingFace Spaces`
 
-It’s built to remove the friction, guesswork, and instability that make training harder than it needs to be.
+### [DataLab Pro](https://app.ezepoch.com) — Desktop Data Prep App *(EzEpoch subscribers)*
+Desktop GUI app for dataset cleaning, analysis, format conversion, quantization, and RAG database building.  
+`Python` `CustomTkinter` `PyInstaller` `FastAPI`
 
----
+### [CleanSearch AI](https://github.com/wilhurley/cleansearch-ai) — Chrome/Edge Ad Remover
+Strips Google sponsored results and shopping ads in real time using a MutationObserver.  
+Manifest V3. Zero backend. Zero data collection.  
+`JavaScript` `Manifest V3` `Chrome Extensions`
 
-## 🧠 What I Focus On
-
-- Distributed training  
-- GPU cloud orchestration  
-- Self‑healing systems  
-- Privacy‑first workflows  
-- Real‑time training insight  
-- Making complex systems feel simple  
-
-I’m one person building this, but I’m not doing it alone — I lean on AI tools, community feedback, and constant iteration.
+### [VIP Smoke Shop PWA](https://vipsmoke.shop) — Local Retail Progressive Web App
+Full PWA: SMS OTP loyalty rewards (Silver/Gold/Diamond), push notifications, GPT-4 chat widget.  
+`Python` `Flask` `PostgreSQL` `Heroku` `OpenAI`
 
 ---
 
-## 📺 Coming Soon
+## 🧠 What I Work With
 
-I’m working on:
-
-- A full walkthrough video showing the entire EzEpoch workflow  
-- A detailed written guide for GitHub, Hugging Face, and Reddit  
-- More integrations with GPU cloud platforms  
-- A public beta for early adopters  
+```
+Languages:   Python · JavaScript · SQL
+AI/ML:       PyTorch · HuggingFace · Ollama · LoRA/QLoRA · GGUF · ChromaDB · LangChain
+Backend:     FastAPI · Flask · WebSockets · PostgreSQL · SQLite
+Cloud:       AWS (S3, CloudFront, Route53) · Heroku · HuggingFace Spaces
+Tools:       PyInstaller · Stripe · Manifest V3 · RTX 5080 local inference
+```
 
 ---
 
-## 🔗 Connect With Me
+## 🖥️ Local Inference Stack
 
-- **Twitter/X:** @ezepoch  
-- **GitHub:** @wilhurley  
-- **LinkedIn:** Wil-Hurley  
-- **Discord:** EzEpoch Community  
-- **Website:** https://ezepoch.com  
+Running **qwen2.5-coder:14b** locally on an RTX 5080 via Ollama.  
+Custom MCP memory server (ChromaDB + SQLite) for persistent AI context across sessions.
 
-If you’re interested in AI training, GPU clouds, or building resilient systems, I’d love to connect.
+---
 
+## 📫 Get In Touch
 
+- **Email:** wil@arctechnologiesllc.com
+- **Website:** [arctechnologiesllc.com](https://arctechnologiesllc.com)
+- **Twitter/X:** [@ezepoch](https://twitter.com/ezepoch)
+- **LinkedIn:** [Wil Hurley](https://linkedin.com/in/wil-hurley)
+
+If you're building something in the LLM/AI space, I'm interested. Always open to contract work, collaboration, or just trading notes with other builders.
