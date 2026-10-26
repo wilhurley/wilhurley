@@ -1,63 +1,22 @@
-# Hi, I'm Wil Hurley 👋
+# Hey, I'm Wil 👋
 
-**Founder of [ARC Technologies LLC](https://arcbrain.dev) — I build local-first AI tools for developers.**
+I run **[Ridgeline Apps LLC](https://ridgelineapps.us)**, a small software company based in Wheelersburg, Ohio. Veteran-owned. We build simple tools that do one job. Each live tool has a free version.
 
-Based in Portsmouth, Ohio · Remote · Open to contract & collaboration
+## Featured: [Okaycrew™](https://okaycrew.com)
 
----
+**Okaycrew by Ridgeline Apps** runs AI bots on your own Windows 10/11 PC. Bring your own API keys, or use local AI models through Ollama or LM Studio. No Okaycrew account, and anything risky waits for your OK.
 
-## 🧠 Featured — [ArcBrain](https://arcbrain.dev)
+Free plan: up to 3 bots. You pay your AI provider directly for any API use.
 
-> Persistent AI memory that bridges Cursor, VS Code Copilot, Claude Desktop, and Windsurf — so your context never resets.
+## Also from Ridgeline Apps
 
-Every new AI chat starts blank. You re-explain your project, your decisions, what didn't work last week. Every session.
+- **[FiftyBids](https://fiftybids.com)**: Federal contracts and grants, in one plain-English search, with the deadline and a link to the government's original posting. Search is free; email alerts aren't on yet. Not affiliated with SAM.gov, Grants.gov, GSA or any government agency.
+- **[DeedScout Ohio](https://deedscout.us/preview)**: A free parcel preview, from county records, for Scioto County, Ohio properties. Full reports are coming soon (waitlist only). Public-records research only: not a title search, title opinion, appraisal, survey, home inspection, or legal advice. Not affiliated with the Scioto County Sheriff or any county office.
+- **[snap.vin](https://snap.vin)**: A free VIN decoder with recall checks (up to 10 lookups a day). Factory specs come from NHTSA's public vPIC database; it lists recall campaigns for that model and year and doesn't confirm whether a specific vehicle was repaired. Not a vehicle history report. Not affiliated with or endorsed by NHTSA.
+- **[makeqr.pro](https://makeqr.pro)**: Free QR codes for links and text, PNG download, no signup. Static codes only.
 
-ArcBrain fixes that. It runs in the background, watches your sessions across all your AI tools, and builds a persistent memory of your project. Structured facts with confidence scores, half-life decay, reinforcement on retrieval, and a graph layer that maps how everything connects.
+Okaycrew, FiftyBids, DeedScout Ohio, snap.vin and makeqr.pro are products of Ridgeline Apps LLC.
 
-Everything stays on your machine. No cloud. No data leaving your system.
+## Say hi
 
-**[arcbrain.dev](https://arcbrain.dev) — Windows, 14-day free trial**  
-`Python` `MCP` `SQLite` `ChromaDB` `FastAPI` `Ollama`
-
----
-
-## 🚀 Other Projects
-
-### [EzEpoch](https://app.ezepoch.com) — Browser-Based LLM Fine-Tuning
-Fine-tune large language models in your browser. Upload a dataset, pick a base model, watch it train in real time. No terminal. No Python environment. No GPU on your end.  
-`Python` `Flask` `WebSockets` `LoRA/QLoRA` `Stripe` `Heroku`
-
-### [VA Claims AI Assistant](https://vahelper.com) — Free Tool for Veterans
-AI chatbot fine-tuned on 109K examples from 38 CFR regulations, C&P exam guides, nexus letters, and appeals data. No signup. No cost. No ads. Ever.  
-`Python` `PyTorch` `Qwen 2.5 3B` `HuggingFace Spaces`
-
-### [DataLab Pro](https://app.ezepoch.com) — Desktop Data Prep App
-Dataset cleaning, analysis, format conversion, quantization, and RAG database building.  
-`Python` `CustomTkinter` `PyInstaller` `FastAPI`
-
-### [CleanSearch AI](https://github.com/wilhurley/cleansearch-ai) — Chrome/Edge Ad Remover
-Strips Google sponsored results and shopping ads in real time. Manifest V3. Zero backend. Zero data collection.  
-`JavaScript` `Manifest V3`
-
----
-
-## 🖥️ Stack
-
-```
-Languages:   Python · JavaScript · SQL
-AI/ML:       PyTorch · HuggingFace · Ollama · LoRA/QLoRA · ChromaDB · MCP
-Backend:     FastAPI · Flask · WebSockets · PostgreSQL · SQLite
-Cloud:       Heroku · Cloudflare Pages · AWS · HuggingFace Spaces
-Local:       RTX 5080 · Ollama · ArcBrain (dogfooding my own tools)
-```
-
----
-
-## 📫 Get In Touch
-
-- **Email:** wil@arctechnologiesllc.com
-- **ArcBrain:** [arcbrain.dev](https://arcbrain.dev)
-- **LinkedIn:** [Wil Hurley](https://linkedin.com/in/wil-hurley)
-- **Hashnode:** [arcdev.hashnode.dev](https://arcdev.hashnode.dev)
-
-If you're building something in the AI/LLM space, I'm always open to trading notes.
+Questions, bugs, or ideas: **support@ridgelineapps.us** · [LinkedIn](https://www.linkedin.com/in/wil-hurley/)
